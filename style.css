@@ -1,0 +1,33 @@
+.left {
+    display: flex;
+    /* justify-content: space-around;
+    color: aqua;
+    width: 20px;*/
+
+
+}
+
+.center {
+    display: flex;
+
+
+
+}
+header i{
+    cursor: alias;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.right {
+    display: flex;
+}
+
+.left .logo i {
+    color: red;
+    margin-left: 2cm;
+}
